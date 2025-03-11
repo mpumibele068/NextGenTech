@@ -14,18 +14,17 @@ h1 {
 }
 
 p {
+    text-align: left;
     background-color: lightgray;
     font-family: Verdana, Geneva, sans-serif;
     font-size: 20px;
-    text-align: left;
-  
+     
 } 
 
-}
-
 p { 
+      text-align: left;
       background-color: lightgray;
       font-family: Verdana, Geneva, sans-serif;
       font-size: 20px;
-      text-align: right; 
+      
 }
