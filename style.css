@@ -1,13 +1,25 @@
 body {
+      background-image: url("img_tree.png");
+  background-repeat: no-repeat;
     background-color: lightgray;
 }
 
 h1 {
+    border:2px solid Violet;
     color: black;
     text-align: center;
 }
 
 p {
+    background-color: lightgray;
     font-family: Verdana, Geneva, sans-serif;
     font-size: 20px;
+    text-align: margin-left;
+}
+
+p {
+    background-color: lightgray;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 20px;
+    text-align: margin-left;
 }
