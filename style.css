@@ -13,8 +13,7 @@ h1 {
     text-align: center;
 }
 
-p {
-    text-align: left;  
+p { 
     background-color: lightgray;
     font-family: Verdana, Geneva, sans-serif;
     font-size: 20px;
@@ -22,7 +21,6 @@ p {
 } 
 
 p {
-    text-align: right;
     background-color: lightgray;
     font-family: Verdana, Geneva, sans-serif;
     font-size: 20px;
