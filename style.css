@@ -14,8 +14,6 @@ h1 {
 }
 
 p {
-    /* Left alignment */
-    .left {
     text-align: left;  
     background-color: lightgray;
     font-family: Verdana, Geneva, sans-serif;
@@ -24,9 +22,6 @@ p {
 } 
 
 p {
-
-    /* Right alignment */
-    .right {
     text-align: right;
     background-color: lightgray;
     font-family: Verdana, Geneva, sans-serif;
