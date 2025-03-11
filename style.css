@@ -1,10 +1,11 @@
 body {
        background-image: url(https://i.pinimg.com/736x/cb/3c/ef/cb3cefbcba842dc7a34c0dfafcf38858.jpg);
+       float: right; /* Aligns to the left */
+       margin-right: 10px
        background-color: lightgray;
 }
 
 h1 { 
-    text-shadow: 2px 2px 5px tomato;   
     border:2px solid Violet;
     color: black;
     text-align: center;
