@@ -1,13 +1,9 @@
 body {
-       background-image: url("img_tree.png");
-  background-repeat: no-repeat;
-  background-position: right top;
-  margin-right: 200px;
-  background-attachment: fixed;
-  background-color: lightgray;
+       background-image: url(https://i.pinimg.com/736x/cb/3c/ef/cb3cefbcba842dc7a34c0dfafcf38858.jpg);
+       background-color: lightgray;
 }
 
-h1 {
+h1 { 
     text-shadow: 2px 2px 5px tomato;   
     border:2px solid Violet;
     color: black;
