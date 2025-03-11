@@ -17,16 +17,15 @@ p {
     background-color: lightgray;
     font-family: Verdana, Geneva, sans-serif;
     font-size: 20px;
-    padding: 70px 0;
-    border: 3px white;
+    text-align: left;
+  
 } 
 
 }
 
-p {
-      padding: 70px 0;
-      border: 3px white; 
+p { 
       background-color: lightgray;
       font-family: Verdana, Geneva, sans-serif;
       font-size: 20px;
+      text-align: right; 
 }
