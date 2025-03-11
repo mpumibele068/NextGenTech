@@ -1,7 +1,10 @@
 body {
-      background-image: url("img_tree.png");
+       background-image: url("img_tree.png");
   background-repeat: no-repeat;
-    background-color: lightgray;
+  background-position: right top;
+  margin-right: 200px;
+  background-attachment: fixed;
+  background-color: lightgray;
 }
 
 h1 {
