@@ -1,5 +1,5 @@
 body {
-   <img src="https://i.pinimg.com/736x/cb/3c/ef/cb3cefbcba842dc7a34c0dfafcf38858.jpg" class="tech-image">
+   <img src='https://i.pinimg.com/736x/cb/3c/ef/cb3cefbcba842dc7a34c0dfafcf38858.jpg' class="tech-image">
    img {
    width: 200px;
    height: 300px;
@@ -18,11 +18,17 @@ h1 {
 p { 
     font-family: Verdana, Geneva, sans-serif;
     font-size: 20px;
+    div.a {
+    text-align: left;
+}
      
 } 
 
 p {
     font-family: Verdana, Geneva, sans-serif;
     font-size: 20px;
+    div.b {
+    text-align: right;
+}
       
 }
