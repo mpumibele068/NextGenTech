@@ -1,10 +1,14 @@
 body {
-   <img src='https://i.pinimg.com/736x/cb/3c/ef/cb3cefbcba842dc7a34c0dfafcf38858.jpg' class="tech-image">
-   img {
-   width: 200px;
-   height: 300px;
-   object-fit: contain;
-}
+   <img src= url('https://i.pinimg.com/736x/cb/3c/ef/cb3cefbcba842dc7a34c0dfafcf38858.jpg') class="tech-image">
+  .tech-image {
+    position: absolute; 
+    right: 20px; 
+    top: 50%;  
+    transform: translateY(-50%); 
+    width: 300px;  
+    height: 300px;  
+    z-index: 10; 
+
 }
  
       
