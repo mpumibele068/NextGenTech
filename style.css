@@ -1,13 +1,15 @@
 body {
        background-image: url(https://i.pinimg.com/736x/cb/3c/ef/cb3cefbcba842dc7a34c0dfafcf38858.jpg);
-       <img src="https://i.pinimg.com/736x/cb/3c/ef/cb3cefbcba842dc7a34c0dfafcf38858.jpg" alt="Small Image">
-       background-size: 100px 100px; /* Width and height */
-       background-repeat: no-repeat;
-       background-position: center right; /* Positions image at center-right */
+       position: center right; /* Positions image at center-right */
        background-color: lightgray;
+       img {
+              
+       width:300px;
+       height:300px;
+}
 }
 
-h1 { 
+h1 {
     color: black;
     text-align: center;
 }
