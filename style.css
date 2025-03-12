@@ -14,9 +14,7 @@ h1 {
 
 p { 
     font-family: Verdana, Geneva, sans-serif;
-    font-size: 20px;
-    div.a {
-    text-align: left;
+    font-size: 20px;   
 }
      
 } 
@@ -24,8 +22,5 @@ p {
 p {
     font-family: Verdana, Geneva, sans-serif;
     font-size: 20px;
-    div.b {
-    text-align: right;
-}
       
 }
