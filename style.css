@@ -14,8 +14,14 @@ h1 {
 
 p { 
     font-family: Verdana, Geneva, sans-serif;
-    font-size: 20px;   
+    font-size: 20px;  
 }
+div {
+      border: 5px inset gold;
+      background-color: black;
+      width: 300px;
+      text-align: center;
+   }
 
 p {
     font-family: Verdana, Geneva, sans-serif;
