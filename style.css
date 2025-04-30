@@ -14,7 +14,7 @@ body {
 
 header {
  background-color: #2c3e50; /* This creates the banner background */
-  color: white;              /* Text color in the banner */
+  color: orange;              /* Text color in the banner */
   padding: 30px;             /* Adds space inside the banner */
   text-align: center;        /* Centers the text */
   font-family: Arial, sans-serif;
